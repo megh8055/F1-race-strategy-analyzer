@@ -1,0 +1,361 @@
+year,track,team,starting_pos,weather,num_stops,total_time
+2018,Australian Grand Prix,Toro Rosso,17.0,Unknown,1,6607.21
+2018,Australian Grand Prix,Force India,12.0,Unknown,1,10853.661
+2018,Australian Grand Prix,McLaren,10.0,Unknown,1,10809.373
+2018,Australian Grand Prix,Sauber,18.0,Unknown,2,5924.138
+2018,Australian Grand Prix,Williams,14.0,Unknown,2,5837.718
+2018,Australian Grand Prix,Haas F1 Team,4.0,Unknown,0,4204.345
+2018,Australian Grand Prix,Renault,7.0,Unknown,1,10824.959
+2018,Australian Grand Prix,Red Bull Racing,8.0,Unknown,1,10782.58
+2018,Australian Grand Prix,Mercedes,1.0,Unknown,1,10785.941
+2018,Australian Grand Prix,Ferrari,3.0,Unknown,1,10752.875
+2018,Bahrain Grand Prix,Toro Rosso,5.0,Unknown,2,11038.558
+2018,Bahrain Grand Prix,Force India,20.0,Unknown,2,11095.155
+2018,Bahrain Grand Prix,McLaren,9.0,Unknown,2,11056.679
+2018,Bahrain Grand Prix,Sauber,17.0,Unknown,2,11093.131
+2018,Bahrain Grand Prix,Williams,15.0,Unknown,2,11033.073
+2018,Bahrain Grand Prix,Haas F1 Team,6.0,Unknown,3,11156.032
+2018,Bahrain Grand Prix,Renault,8.0,Unknown,2,11171.269
+2018,Bahrain Grand Prix,Red Bull Racing,4.0,Unknown,1,330.45
+2018,Bahrain Grand Prix,Mercedes,10.0,Unknown,1,10859.099
+2018,Bahrain Grand Prix,Ferrari,1.0,Unknown,1,8763.325
+2018,Chinese Grand Prix,Red Bull Racing,6.0,Unknown,1,10856.576
+2018,Chinese Grand Prix,Mercedes,2.0,Unknown,1,10863.738
+2018,Chinese Grand Prix,Ferrari,4.0,Unknown,1,11041.029
+2018,Chinese Grand Prix,Renault,7.0,Unknown,1,11227.294
+2018,Chinese Grand Prix,McLaren,11.0,Unknown,1,11552.772
+2018,Chinese Grand Prix,Haas F1 Team,10.0,Unknown,1,11577.65
+2018,Chinese Grand Prix,Force India,13.0,Unknown,1,11561.535
+2018,Chinese Grand Prix,Williams,12.0,Unknown,1,11586.491
+2018,Chinese Grand Prix,Sauber,20.0,Unknown,1,10988.292
+2018,Chinese Grand Prix,Toro Rosso,19.0,Unknown,1,10639.391
+2018,Azerbaijan Grand Prix,Toro Rosso,11.0,Unknown,2,9574.786
+2018,Azerbaijan Grand Prix,Force India,9.0,Unknown,2,4554.517
+2018,Azerbaijan Grand Prix,McLaren,16.0,Unknown,4,9554.345
+2018,Azerbaijan Grand Prix,Sauber,12.0,Unknown,3,10030.986
+2018,Azerbaijan Grand Prix,Williams,8.0,Unknown,2,4590.81
+2018,Azerbaijan Grand Prix,Haas F1 Team,17.0,Unknown,2,9106.361
+2018,Azerbaijan Grand Prix,Renault,10.0,Unknown,2,5285.916
+2018,Azerbaijan Grand Prix,Red Bull Racing,4.0,Unknown,1,7681.595
+2018,Azerbaijan Grand Prix,Mercedes,2.0,Unknown,2,8383.185
+2018,Azerbaijan Grand Prix,Ferrari,1.0,Unknown,2,8913.077
+2018,Spanish Grand Prix,Toro Rosso,,Unknown,1,5598.016
+2018,Spanish Grand Prix,Force India,13.0,Unknown,2,8949.029
+2018,Spanish Grand Prix,McLaren,11.0,Unknown,1,9654.328
+2018,Spanish Grand Prix,Sauber,9.0,Unknown,1,11182.52
+2018,Spanish Grand Prix,Williams,12.0,Unknown,2,11323.404
+2018,Spanish Grand Prix,Haas F1 Team,7.0,Unknown,1,5592.309
+2018,Spanish Grand Prix,Renault,,Unknown,1,5629.002
+2018,Spanish Grand Prix,Red Bull Racing,6.0,Unknown,1,11224.297
+2018,Spanish Grand Prix,Mercedes,1.0,Unknown,1,11168.657
+2018,Spanish Grand Prix,Ferrari,2.0,Unknown,2,7856.197
+2018,Monaco Grand Prix,Toro Rosso,10.0,Unknown,1,11773.747
+2018,Monaco Grand Prix,Force India,9.0,Unknown,1,12443.742
+2018,Monaco Grand Prix,McLaren,7.0,Unknown,2,10318.814
+2018,Monaco Grand Prix,Sauber,14.0,Unknown,1,11820.923
+2018,Monaco Grand Prix,Williams,16.0,Unknown,3,12433.946
+2018,Monaco Grand Prix,Haas F1 Team,19.0,Unknown,2,12454.68
+2018,Monaco Grand Prix,Renault,11.0,Unknown,1,12443.466
+2018,Monaco Grand Prix,Red Bull Racing,1.0,Unknown,1,12374.931
+2018,Monaco Grand Prix,Mercedes,3.0,Unknown,1,12385.449
+2018,Monaco Grand Prix,Ferrari,2.0,Unknown,1,12375.077
+2018,Canadian Grand Prix,Ferrari,1.0,Unknown,1,10952.043
+2018,Canadian Grand Prix,Mercedes,2.0,Unknown,1,10951.894
+2018,Canadian Grand Prix,Red Bull Racing,3.0,Unknown,1,10948.165
+2018,Canadian Grand Prix,Renault,8.0,Unknown,1,10978.116
+2018,Canadian Grand Prix,Force India,7.0,Unknown,2,11001.922
+2018,Canadian Grand Prix,Sauber,11.0,Unknown,1,10976.787
+2018,Canadian Grand Prix,Toro Rosso,15.0,Unknown,1,5507.448
+2018,Canadian Grand Prix,Haas F1 Team,16.0,Unknown,1,11019.242
+2018,Canadian Grand Prix,McLaren,18.0,Unknown,1,8760.959
+2018,Canadian Grand Prix,Williams,13.0,Unknown,1,5498.701
+2018,French Grand Prix,Toro Rosso,,Unknown,1,5158.217
+2018,French Grand Prix,Force India,9.0,Unknown,0,2762.306
+2018,French Grand Prix,McLaren,16.0,Unknown,1,10247.734
+2018,French Grand Prix,Sauber,6.0,Unknown,1,10643.937
+2018,French Grand Prix,Williams,14.0,Unknown,0,10197.223
+2018,French Grand Prix,Haas F1 Team,5.0,Unknown,1,10594.943
+2018,French Grand Prix,Renault,10.0,Unknown,1,10683.155
+2018,French Grand Prix,Red Bull Racing,4.0,Unknown,1,10547.448
+2018,French Grand Prix,Mercedes,1.0,Unknown,1,10590.982
+2018,French Grand Prix,Ferrari,17.0,Unknown,1,10598.262
+2018,Austrian Grand Prix,Toro Rosso,15.0,Unknown,1,8850.665
+2018,Austrian Grand Prix,Force India,13.0,Unknown,1,9901.388
+2018,Austrian Grand Prix,McLaren,19.0,Unknown,1,9695.052
+2018,Austrian Grand Prix,Sauber,14.0,Unknown,1,9941.482
+2018,Austrian Grand Prix,Williams,11.0,Unknown,2,9895.949
+2018,Austrian Grand Prix,Haas F1 Team,7.0,Unknown,1,9876.471
+2018,Austrian Grand Prix,Renault,9.0,Unknown,2,5772.275
+2018,Austrian Grand Prix,Red Bull Racing,5.0,Unknown,2,8640.288
+2018,Austrian Grand Prix,Mercedes,1.0,Unknown,2,5242.87
+2018,Austrian Grand Prix,Ferrari,8.0,Unknown,1,9836.733
+2018,British Grand Prix,Toro Rosso,12.0,Unknown,2,5458.385
+2018,British Grand Prix,Force India,19.0,Unknown,2,10564.206
+2018,British Grand Prix,McLaren,11.0,Unknown,2,10566.457
+2018,British Grand Prix,Sauber,7.0,Unknown,1,4720.675
+2018,British Grand Prix,Williams,18.0,Unknown,1,10585.787
+2018,British Grand Prix,Haas F1 Team,10.0,Unknown,1,9000.132
+2018,British Grand Prix,Renault,6.0,Unknown,2,8995.357
+2018,British Grand Prix,Red Bull Racing,5.0,Unknown,2,9979.963
+2018,British Grand Prix,Mercedes,17.0,Unknown,1,10360.609
+2018,British Grand Prix,Ferrari,1.0,Unknown,2,10048.075
+2018,German Grand Prix,Toro Rosso,18.0,Unknown,2,11172.532
+2018,German Grand Prix,Force India,8.0,Unknown,1,11161.996
+2018,German Grand Prix,McLaren,11.0,Unknown,3,11109.358
+2018,German Grand Prix,Sauber,10.0,Unknown,3,11172.489
+2018,German Grand Prix,Williams,16.0,Unknown,2,8655.775
+2018,German Grand Prix,Haas F1 Team,5.0,Unknown,3,11163.48
+2018,German Grand Prix,Renault,6.0,Unknown,3,11159.368
+2018,German Grand Prix,Red Bull Racing,19.0,Unknown,3,7724.358
+2018,German Grand Prix,Mercedes,13.0,Unknown,2,11104.225
+2018,German Grand Prix,Ferrari,1.0,Unknown,2,9590.269
+2018,Hungarian Grand Prix,Toro Rosso,6.0,Unknown,1,11802.1
+2018,Hungarian Grand Prix,Force India,15.0,Unknown,1,11824.143
+2018,Hungarian Grand Prix,McLaren,11.0,Unknown,1,10072.074
+2018,Hungarian Grand Prix,Sauber,,Unknown,1,5877.725
+2018,Hungarian Grand Prix,Williams,19.0,Unknown,1,11775.335
+2018,Hungarian Grand Prix,Haas F1 Team,7.0,Unknown,1,11732.431
+2018,Hungarian Grand Prix,Renault,10.0,Unknown,2,11789.146
+2018,Hungarian Grand Prix,Red Bull Racing,16.0,Unknown,1,6310.905
+2018,Hungarian Grand Prix,Mercedes,1.0,Unknown,1,11722.854
+2018,Hungarian Grand Prix,Ferrari,3.0,Unknown,2,11710.078
+2018,Belgian Grand Prix,Ferrari,1.0,Unknown,1,5185.569
+2018,Belgian Grand Prix,Mercedes,2.0,Unknown,2,9054.567
+2018,Belgian Grand Prix,Red Bull Racing,5.0,Unknown,1,7567.892
+2018,Belgian Grand Prix,Racing Point,3.0,Unknown,1,9118.212
+2018,Belgian Grand Prix,Haas F1 Team,6.0,Unknown,1,9146.604
+2018,Belgian Grand Prix,Toro Rosso,8.0,Unknown,1,9126.967
+2018,Belgian Grand Prix,Sauber,9.0,Unknown,1,4494.283
+2018,Belgian Grand Prix,Renault,14.0,Unknown,1,4512.794
+2018,Belgian Grand Prix,Williams,10.0,Unknown,1,9023.47
+2018,Belgian Grand Prix,McLaren,16.0,Unknown,2,4542.709
+2018,Italian Grand Prix,Toro Rosso,11.0,Unknown,1,4641.033
+2018,Italian Grand Prix,Racing Point,13.0,Unknown,1,9345.407
+2018,Italian Grand Prix,McLaren,10.0,Unknown,1,5560.024
+2018,Italian Grand Prix,Sauber,14.0,Unknown,1,9270.396
+2018,Italian Grand Prix,Williams,8.0,Unknown,1,9235.881
+2018,Italian Grand Prix,Haas F1 Team,12.0,Unknown,1,9368.926
+2018,Italian Grand Prix,Renault,16.0,Unknown,1,9330.987
+2018,Italian Grand Prix,Red Bull Racing,17.0,Unknown,1,6736.762
+2018,Italian Grand Prix,Mercedes,2.0,Unknown,1,9243.034
+2018,Italian Grand Prix,Ferrari,18.0,Unknown,1,9253.824
+2018,Singapore Grand Prix,Mercedes,1.0,Unknown,1,12414.231
+2018,Singapore Grand Prix,Red Bull Racing,3.0,Unknown,1,12426.619
+2018,Singapore Grand Prix,Ferrari,2.0,Unknown,1,12456.434
+2018,Singapore Grand Prix,McLaren,9.0,Unknown,1,12695.079
+2018,Singapore Grand Prix,Renault,10.0,Unknown,1,12438.888
+2018,Singapore Grand Prix,Sauber,13.0,Unknown,1,12479.69
+2018,Singapore Grand Prix,Toro Rosso,12.0,Unknown,2,12563.891
+2018,Singapore Grand Prix,Williams,19.0,Unknown,2,12834.983
+2018,Singapore Grand Prix,Haas F1 Team,8.0,Unknown,2,12463.308
+2018,Singapore Grand Prix,Racing Point,7.0,Unknown,3,6279.907
+2018,Russian Grand Prix,Mercedes,2.0,Unknown,1,10492.907
+2018,Russian Grand Prix,Ferrari,3.0,Unknown,1,10514.392
+2018,Russian Grand Prix,Red Bull Racing,13.0,Unknown,1,10601.829
+2018,Russian Grand Prix,Sauber,6.0,Unknown,2,10648.039
+2018,Russian Grand Prix,Haas F1 Team,5.0,Unknown,1,10541.304
+2018,Russian Grand Prix,Racing Point,7.0,Unknown,1,10529.661
+2018,Russian Grand Prix,Renault,12.0,Unknown,1,10542.014
+2018,Russian Grand Prix,McLaren,16.0,Unknown,1,10575.006
+2018,Russian Grand Prix,Williams,14.0,Unknown,1,10581.217
+2018,Russian Grand Prix,Toro Rosso,20.0,Unknown,1,790.461
+2018,Japanese Grand Prix,Toro Rosso,7.0,Unknown,1,10539.759
+2018,Japanese Grand Prix,Racing Point,8.0,Unknown,1,10641.558
+2018,Japanese Grand Prix,McLaren,15.0,Unknown,1,10563.104
+2018,Japanese Grand Prix,Sauber,13.0,Unknown,2,8887.967
+2018,Japanese Grand Prix,Williams,17.0,Unknown,2,10422.763
+2018,Japanese Grand Prix,Haas F1 Team,12.0,Unknown,1,6022.572
+2018,Japanese Grand Prix,Renault,16.0,Unknown,1,9071.688
+2018,Japanese Grand Prix,Red Bull Racing,14.0,Unknown,1,10507.914
+2018,Japanese Grand Prix,Mercedes,1.0,Unknown,1,10487.043
+2018,Japanese Grand Prix,Ferrari,4.0,Unknown,1,10594.995
+2018,United States Grand Prix,Toro Rosso,14.0,Unknown,2,11405.816
+2018,United States Grand Prix,Racing Point,8.0,Unknown,1,11418.085
+2018,United States Grand Prix,McLaren,20.0,Unknown,2,5826.478
+2018,United States Grand Prix,Sauber,17.0,Unknown,1,8983.998
+2018,United States Grand Prix,Williams,18.0,Unknown,3,11408.633
+2018,United States Grand Prix,Haas F1 Team,10.0,Unknown,1,6038.325
+2018,United States Grand Prix,Renault,5.0,Unknown,1,11499.49
+2018,United States Grand Prix,Red Bull Racing,4.0,Unknown,1,6472.794
+2018,United States Grand Prix,Mercedes,2.0,Unknown,2,11344.372
+2018,United States Grand Prix,Ferrari,15.0,Unknown,1,11335.508
+2018,Mexican Grand Prix,Toro Rosso,17.0,Unknown,2,11952.478
+2018,Mexican Grand Prix,Racing Point,11.0,Unknown,2,9306.695
+2018,Mexican Grand Prix,McLaren,12.0,Unknown,1,6225.121
+2018,Mexican Grand Prix,Sauber,9.0,Unknown,1,11912.237
+2018,Mexican Grand Prix,Williams,13.0,Unknown,2,11962.463
+2018,Mexican Grand Prix,Haas F1 Team,14.0,Unknown,2,11902.785
+2018,Mexican Grand Prix,Renault,8.0,Unknown,1,8328.017
+2018,Mexican Grand Prix,Red Bull Racing,3.0,Unknown,2,10981.64
+2018,Mexican Grand Prix,Mercedes,2.0,Unknown,3,11909.039
+2018,Mexican Grand Prix,Ferrari,4.0,Unknown,2,11884.932
+2018,Brazilian Grand Prix,Mercedes,1.0,Unknown,2,10481.075
+2018,Brazilian Grand Prix,Red Bull Racing,5.0,Unknown,1,10464.794
+2018,Brazilian Grand Prix,Ferrari,4.0,Unknown,2,10489.893
+2018,Brazilian Grand Prix,Sauber,6.0,Unknown,1,6855.832
+2018,Brazilian Grand Prix,Haas F1 Team,7.0,Unknown,1,10562.219
+2018,Brazilian Grand Prix,Racing Point,12.0,Unknown,2,10533.537
+2018,Brazilian Grand Prix,Toro Rosso,16.0,Unknown,1,10581.292
+2018,Brazilian Grand Prix,Renault,13.0,Unknown,2,7646.07
+2018,Brazilian Grand Prix,McLaren,20.0,Unknown,2,10536.793
+2018,Brazilian Grand Prix,Williams,17.0,Unknown,2,10510.156
+2018,Abu Dhabi Grand Prix,Toro Rosso,13.0,Unknown,1,10258.917
+2018,Abu Dhabi Grand Prix,Racing Point,10.0,Unknown,1,10064.278
+2018,Abu Dhabi Grand Prix,McLaren,14.0,Unknown,1,11102.301
+2018,Abu Dhabi Grand Prix,Sauber,5.0,Unknown,1,7945.313
+2018,Abu Dhabi Grand Prix,Williams,15.0,Unknown,1,11142.417
+2018,Abu Dhabi Grand Prix,Haas F1 Team,16.0,Unknown,1,11063.191
+2018,Abu Dhabi Grand Prix,Renault,,Unknown,1,5578.384
+2018,Abu Dhabi Grand Prix,Red Bull Racing,6.0,Unknown,1,11034.643
+2018,Abu Dhabi Grand Prix,Mercedes,1.0,Unknown,2,11038.622
+2018,Abu Dhabi Grand Prix,Ferrari,3.0,Unknown,1,5866.858
+2019,Australian Grand Prix,Red Bull Racing,17.0,Unknown,1,10285.34
+2019,Australian Grand Prix,Racing Point,12.0,Unknown,1,10310.25
+2019,Australian Grand Prix,Ferrari,5.0,Unknown,1,10369.989
+2019,Australian Grand Prix,Haas F1 Team,6.0,Unknown,1,7874.383
+2019,Australian Grand Prix,Toro Rosso,11.0,Unknown,1,10311.657
+2019,Australian Grand Prix,Renault,8.0,Unknown,1,7731.846
+2019,Australian Grand Prix,McLaren,10.0,Unknown,1,6010.192
+2019,Australian Grand Prix,Mercedes,2.0,Unknown,1,10275.536
+2019,Australian Grand Prix,Williams,18.0,Unknown,3,10356.216
+2019,Australian Grand Prix,Alfa Romeo Racing,9.0,Unknown,1,10331.571
+2019,Bahrain Grand Prix,Red Bull Racing,12.0,Unknown,2,11387.092
+2019,Bahrain Grand Prix,Racing Point,10.0,Unknown,2,11406.495
+2019,Bahrain Grand Prix,Ferrari,3.0,Unknown,3,11364.789
+2019,Bahrain Grand Prix,Haas F1 Team,7.0,Unknown,2,7312.604
+2019,Bahrain Grand Prix,Toro Rosso,13.0,Unknown,2,11386.893
+2019,Bahrain Grand Prix,Renault,11.0,Unknown,2,10460.388
+2019,Bahrain Grand Prix,McLaren,14.0,Unknown,3,11023.189
+2019,Bahrain Grand Prix,Mercedes,4.0,Unknown,2,11173.356
+2019,Bahrain Grand Prix,Williams,18.0,Unknown,2,11383.078
+2019,Bahrain Grand Prix,Alfa Romeo Racing,8.0,Unknown,2,11434.659
+2019,Chinese Grand Prix,Mercedes,1.0,Unknown,2,11059.252
+2019,Chinese Grand Prix,Ferrari,4.0,Unknown,2,11097.72
+2019,Chinese Grand Prix,Red Bull Racing,5.0,Unknown,3,11169.634
+2019,Chinese Grand Prix,Renault,7.0,Unknown,1,7209.327
+2019,Chinese Grand Prix,Racing Point,8.0,Unknown,2,11109.678
+2019,Chinese Grand Prix,Alfa Romeo Racing,12.0,Unknown,2,11130.194
+2019,Chinese Grand Prix,Toro Rosso,18.0,Unknown,3,9783.93
+2019,Chinese Grand Prix,Haas F1 Team,10.0,Unknown,2,11130.85
+2019,Chinese Grand Prix,McLaren,19.0,Unknown,3,10730.029
+2019,Chinese Grand Prix,Williams,15.0,Unknown,2,11117.774
+2019,Azerbaijan Grand Prix,Red Bull Racing,19.0,Unknown,1,9651.563
+2019,Azerbaijan Grand Prix,Racing Point,4.0,Unknown,1,11206.116
+2019,Azerbaijan Grand Prix,Ferrari,10.0,Unknown,2,11106.73
+2019,Azerbaijan Grand Prix,Haas F1 Team,13.0,Unknown,2,9829.712
+2019,Azerbaijan Grand Prix,Toro Rosso,12.0,Unknown,1,9222.434
+2019,Azerbaijan Grand Prix,Renault,14.0,Unknown,2,8898.084
+2019,Azerbaijan Grand Prix,McLaren,6.0,Unknown,2,11058.969
+2019,Azerbaijan Grand Prix,Mercedes,2.0,Unknown,1,11027.408
+2019,Azerbaijan Grand Prix,Williams,18.0,Unknown,3,10929.87
+2019,Azerbaijan Grand Prix,Alfa Romeo Racing,17.0,Unknown,1,11061.592
+2019,Spanish Grand Prix,Red Bull Racing,6.0,Unknown,2,11528.141
+2019,Spanish Grand Prix,Racing Point,13.0,Unknown,2,9538.83
+2019,Spanish Grand Prix,Ferrari,5.0,Unknown,2,11523.414
+2019,Spanish Grand Prix,Haas F1 Team,8.0,Unknown,2,11563.686
+2019,Spanish Grand Prix,Toro Rosso,10.0,Unknown,2,11402.91
+2019,Spanish Grand Prix,Renault,18.0,Unknown,2,11576.885
+2019,Spanish Grand Prix,McLaren,16.0,Unknown,2,9524.88
+2019,Spanish Grand Prix,Mercedes,1.0,Unknown,2,11349.157
+2019,Spanish Grand Prix,Williams,19.0,Unknown,2,11627.742
+2019,Spanish Grand Prix,Alfa Romeo Racing,20.0,Unknown,2,11590.38
+2019,Monaco Grand Prix,Mercedes,1.0,Unknown,2,12420.036
+2019,Monaco Grand Prix,Ferrari,4.0,Unknown,2,7661.443
+2019,Monaco Grand Prix,Red Bull Racing,3.0,Unknown,2,12427.357
+2019,Monaco Grand Prix,McLaren,8.0,Unknown,1,12537.129
+2019,Monaco Grand Prix,Toro Rosso,9.0,Unknown,1,12526.648
+2019,Monaco Grand Prix,Renault,5.0,Unknown,1,12489.178
+2019,Monaco Grand Prix,Haas F1 Team,12.0,Unknown,1,12480.425
+2019,Monaco Grand Prix,Racing Point,16.0,Unknown,1,12458.591
+2019,Monaco Grand Prix,Williams,20.0,Unknown,1,12522.276
+2019,Monaco Grand Prix,Alfa Romeo Racing,17.0,Unknown,1,12471.476
+2019,Canadian Grand Prix,Red Bull Racing,5.0,Unknown,1,10765.364
+2019,Canadian Grand Prix,Racing Point,12.0,Unknown,1,10771.11
+2019,Canadian Grand Prix,Ferrari,3.0,Unknown,1,10697.522
+2019,Canadian Grand Prix,Haas F1 Team,19.0,Unknown,1,10825.003
+2019,Canadian Grand Prix,Toro Rosso,20.0,Unknown,1,10068.002
+2019,Canadian Grand Prix,Renault,6.0,Unknown,1,10700.716
+2019,Canadian Grand Prix,McLaren,8.0,Unknown,1,6029.972
+2019,Canadian Grand Prix,Mercedes,2.0,Unknown,2,10745.211
+2019,Canadian Grand Prix,Williams,15.0,Unknown,2,10775.942
+2019,Canadian Grand Prix,Alfa Romeo Racing,17.0,Unknown,2,10832.165
+2019,French Grand Prix,Mercedes,1.0,Unknown,1,10160.452
+2019,French Grand Prix,Ferrari,3.0,Unknown,2,10224.177
+2019,French Grand Prix,Red Bull Racing,4.0,Unknown,1,10193.525
+2019,French Grand Prix,McLaren,5.0,Unknown,1,10248.852
+2019,French Grand Prix,Alfa Romeo Racing,11.0,Unknown,2,10206.512
+2019,French Grand Prix,Renault,12.0,Unknown,1,10159.218
+2019,French Grand Prix,Racing Point,13.0,Unknown,1,10187.398
+2019,French Grand Prix,Toro Rosso,20.0,Unknown,1,10216.617
+2019,French Grand Prix,Haas F1 Team,14.0,Unknown,1,9476.599
+2019,French Grand Prix,Williams,17.0,Unknown,2,10218.296
+2019,Austrian Grand Prix,Red Bull Racing,7.0,Unknown,1,9850.856
+2019,Austrian Grand Prix,Ferrari,1.0,Unknown,2,9865.978
+2019,Austrian Grand Prix,Mercedes,2.0,Unknown,1,9885.409
+2019,Austrian Grand Prix,McLaren,5.0,Unknown,1,9863.493
+2019,Austrian Grand Prix,Alfa Romeo Racing,4.0,Unknown,1,9885.288
+2019,Austrian Grand Prix,Racing Point,11.0,Unknown,1,9902.266
+2019,Austrian Grand Prix,Renault,14.0,Unknown,1,9895.499
+2019,Austrian Grand Prix,Toro Rosso,18.0,Unknown,1,9945.933
+2019,Austrian Grand Prix,Haas F1 Team,15.0,Unknown,3,9925.851
+2019,Austrian Grand Prix,Williams,20.0,Unknown,1,9872.194
+2019,British Grand Prix,Red Bull Racing,6.0,Unknown,2,9811.054
+2019,British Grand Prix,Racing Point,14.0,Unknown,3,9854.313
+2019,British Grand Prix,Ferrari,3.0,Unknown,2,9783.482
+2019,British Grand Prix,Haas F1 Team,20.0,Unknown,1,1605.179
+2019,British Grand Prix,Toro Rosso,10.0,Unknown,2,9879.241
+2019,British Grand Prix,Renault,9.0,Unknown,2,9864.038
+2019,British Grand Prix,McLaren,7.0,Unknown,2,9864.824
+2019,British Grand Prix,Mercedes,2.0,Unknown,2,9592.203
+2019,British Grand Prix,Williams,17.0,Unknown,1,9778.496
+2019,British Grand Prix,Alfa Romeo Racing,12.0,Unknown,1,6624.779
+2019,German Grand Prix,Red Bull Racing,8.0,Unknown,5,12318.948
+2019,German Grand Prix,Racing Point,11.0,Unknown,5,6241.324
+2019,German Grand Prix,Ferrari,6.0,Unknown,5,8880.863
+2019,German Grand Prix,Haas F1 Team,10.0,Unknown,6,12426.484
+2019,German Grand Prix,Toro Rosso,16.0,Unknown,4,12560.907
+2019,German Grand Prix,Renault,5.0,Unknown,3,5281.807
+2019,German Grand Prix,McLaren,19.0,Unknown,3,8760.348
+2019,German Grand Prix,Mercedes,1.0,Unknown,6,11499.337
+2019,German Grand Prix,Williams,18.0,Unknown,5,12593.941
+2019,German Grand Prix,Alfa Romeo Racing,3.0,Unknown,4,12568.613
+2019,Hungarian Grand Prix,Mercedes,2.0,Unknown,2,11439.72
+2019,Hungarian Grand Prix,Red Bull Racing,1.0,Unknown,2,11454.106
+2019,Hungarian Grand Prix,Ferrari,5.0,Unknown,1,11534.275
+2019,Hungarian Grand Prix,McLaren,6.0,Unknown,1,11472.308
+2019,Hungarian Grand Prix,Alfa Romeo Racing,8.0,Unknown,1,11511.848
+2019,Hungarian Grand Prix,Toro Rosso,13.0,Unknown,1,11479.307
+2019,Hungarian Grand Prix,Racing Point,12.0,Unknown,2,11548.837
+2019,Hungarian Grand Prix,Renault,11.0,Unknown,1,11564.995
+2019,Hungarian Grand Prix,Haas F1 Team,16.0,Unknown,1,9949.63
+2019,Hungarian Grand Prix,Williams,14.0,Unknown,1,11477.775
+2019,Belgian Grand Prix,Toro Rosso,9.0,Unknown,1,9203.32
+2019,Belgian Grand Prix,Racing Point,8.0,Unknown,2,9196.282
+2019,Belgian Grand Prix,Ferrari,1.0,Unknown,2,9009.589
+2019,Belgian Grand Prix,Haas F1 Team,7.0,Unknown,1,9016.467
+2019,Belgian Grand Prix,Red Bull Racing,13.0,Unknown,1,4585.912
+2019,Belgian Grand Prix,Renault,14.0,Unknown,2,9145.469
+2019,Belgian Grand Prix,McLaren,5.0,Unknown,1,4646.06
+2019,Belgian Grand Prix,Mercedes,3.0,Unknown,1,9000.035
+2019,Belgian Grand Prix,Williams,15.0,Unknown,1,9095.113
+2019,Belgian Grand Prix,Alfa Romeo Racing,18.0,Unknown,3,8936.728
+2019,Italian Grand Prix,Toro Rosso,14.0,Unknown,1,7075.101
+2019,Italian Grand Prix,Racing Point,17.0,Unknown,2,9146.249
+2019,Italian Grand Prix,Ferrari,1.0,Unknown,3,9092.617
+2019,Italian Grand Prix,Haas F1 Team,11.0,Unknown,2,8421.952
+2019,Italian Grand Prix,Red Bull Racing,9.0,Unknown,2,9187.137
+2019,Italian Grand Prix,Renault,4.0,Unknown,1,9157.01
+2019,Italian Grand Prix,McLaren,18.0,Unknown,1,6866.511
+2019,Italian Grand Prix,Mercedes,2.0,Unknown,2,9089.364
+2019,Italian Grand Prix,Williams,15.0,Unknown,2,9121.419
+2019,Italian Grand Prix,Alfa Romeo Racing,19.0,Unknown,2,9121.438
+2019,Singapore Grand Prix,Toro Rosso,10.0,Unknown,2,12026.874
+2019,Singapore Grand Prix,Racing Point,14.0,Unknown,3,10546.051
+2019,Singapore Grand Prix,Ferrari,1.0,Unknown,1,11545.794
+2019,Singapore Grand Prix,Haas F1 Team,9.0,Unknown,2,12243.204
+2019,Singapore Grand Prix,Red Bull Racing,6.0,Unknown,1,11764.324
+2019,Singapore Grand Prix,Renault,18.0,Unknown,2,12052.232
+2019,Singapore Grand Prix,McLaren,7.0,Unknown,2,12166.593
+2019,Singapore Grand Prix,Mercedes,2.0,Unknown,1,11620.346
+2019,Singapore Grand Prix,Williams,19.0,Unknown,2,10152.284
+2019,Singapore Grand Prix,Alfa Romeo Racing,11.0,Unknown,2,10979.87
